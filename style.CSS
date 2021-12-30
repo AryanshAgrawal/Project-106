@@ -1,0 +1,25 @@
+.header_div{
+    color: white;
+    font-family: 'Lobster', cursive;
+    }
+    body{
+    background-color:blueviolet;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    }
+    #dog{
+    visibility: hidden;
+    }
+#cow{
+ visibility: hidden;
+ }
+ #lion{
+ visibility: hidden;
+}
+ #cat{
+ visibility: hidden;
+ }
+ #ear{
+    text-align: center;
+    color:black;
+    }
